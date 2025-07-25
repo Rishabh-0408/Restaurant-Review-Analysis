@@ -1,4 +1,5 @@
 # Sentimental Analysis of Restaurant Reviews
+-A Python project that uses Natural Language Processing to classify the sentiment of restaurant reviews as positive or negative.
 
 ## Project Description
 This project performs sentiment analysis on restaurant reviews to classify them as either positive (1) or negative (0). The goal is to build a model that can accurately predict the sentiment of a new review. The dataset used contains 1000 reviews.

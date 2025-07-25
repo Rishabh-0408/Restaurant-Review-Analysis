@@ -5,6 +5,12 @@ This project performs sentiment analysis on restaurant reviews to classify them 
 
 ---
 
+## Structure
+- `notebooks/`: Notebooks with EDA and model
+- `data/`: Dataset files
+
+---
+
 ## Methodology
 The project follows these key steps:
 1.  **Data Loading:** The dataset `Restaurant_Reviews.tsv` is loaded into a pandas DataFrame.

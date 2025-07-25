@@ -6,7 +6,7 @@ This project performs sentiment analysis on restaurant reviews to classify them 
 ---
 
 ## Structure
-- `notebooks/`: Notebooks with EDA and model
+- `Notebook/`: Notebooks with EDA and model
 - `data/`: Dataset files
 
 ---
